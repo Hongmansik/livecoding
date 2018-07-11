@@ -27,13 +27,6 @@
   text-decoration: underline #a700ff;
   display: inline-block;
   background-color:darkgreen;
-  transition-property: all 2s;
-}
-
-#name:active{ 
-  transform: scaleY(1.5);
-  transform: translate(10px, 10px);
-  color: #07fd36;
 }
 
 .blend{
@@ -51,18 +44,20 @@ nav{
   display: inline-block;	
 } 
 
-.black{
-  background-color: #1c1414;
-  color: white;
-}
-.hsl{
-  background-color: #075b4c;
-  color: black;
-}
- 
 #control{
   float: right;
 }
+.btn{
+  background-color: DodgerBlue;
+  border-width: inherit;  
+  color: white;
+  margin-right: 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn:hover{
+    background-color: RoyalBlue;
+}	
 
 @media(max-width:700px){
 #grid{
@@ -82,10 +77,6 @@ nav, section, aside {
   grid-template-columns: 1fr 1fr 1fr;
   width: auto;
 }
- 
- 
-	
-
  
  
  
