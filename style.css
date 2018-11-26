@@ -78,5 +78,8 @@ nav, section, aside {
   width: auto;
 }
  
+nav li, section li, Aside li{
+    list-style-image: url(/favicon.ico);
+}
  
  
