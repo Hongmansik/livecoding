@@ -1,0 +1,4 @@
+<li><a href="http://localhost/n_leave.php"><b>집을 나서며</b></a></li>
+<li><a href="http://localhost/n_flx.php"><b>만지작만지작</b></a></li>
+<li><a href="http://localhost/n_DB.php"><b>DB</b></a></li> 
+ 

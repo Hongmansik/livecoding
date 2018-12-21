@@ -1,0 +1,27 @@
+      h1{
+  border-bottom: 3px solid gray;
+  padding: 20px;
+  margin: auto;       
+}
+      
+      nav{
+  border-right: 3px solid gray;
+  width: 200px;
+  height: 600px;
+  float: left;
+  margin: auto;
+}
+      
+      #control{
+   margin: 15px; 
+   float: right;		  
+}  
+      
+      article{
+  float: left;
+  padding: 20px;
+}
+
+      li{
+  list-style: none;
+}

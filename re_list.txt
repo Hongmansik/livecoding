@@ -1,0 +1,4 @@
+<li><a href="http://localhost/n_trade.php"><b>부동산 매매</b></a></li>
+<li><a href="http://localhost/n_rantal.php"><b>부동산 임대</b></a></li>
+<li><a href="http://localhost/n_shot tem.php"><b>부동산 일시사용</b></a></li>  
+ 
